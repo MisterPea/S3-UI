@@ -1,5 +1,7 @@
 # S3 UI  :seedling:
-## User interface for AWS's Simple Storage Service 
+## !! An updated app is in the works as we speak !!
+## You can follow the progress [here](https://github.com/MisterPea/S3_Sherpa).
+### User interface for AWS's Simple Storage Service 
 
 __Base functionality includes the ability to:__
 * Create/Delete buckets
